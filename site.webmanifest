@@ -1,0 +1,23 @@
+{
+  "name": "Absolute Array",
+  "short_name": "Abs Array",
+  "description": "Dedicated content for improving your programming abilities and learning new skills",
+  "icons": [
+    {
+      "src": "/images/favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "start_url": "https://absolutearray.com/",
+  "display": "standalone"
+}

@@ -1,0 +1,1 @@
+(()=>{window.onload=function(){var a=document.getElementById("g-recaptcha-response");a&&a.setAttribute("required","required")}})()
