@@ -2,8 +2,8 @@
 @media print {
   html {
     zoom: unset;
-    -webkit-print-color-adjust: exact !important; /*Chrome, Safari */
-    color-adjust: exact !important; /*Firefox*/
+    -webkit-print-color-adjust: exact  ; /*Chrome, Safari */
+    color-adjust: exact  ; /*Firefox*/
   }
 }
 
