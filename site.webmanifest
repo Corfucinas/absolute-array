@@ -16,6 +16,7 @@
     }
   ],
   "theme_color": "#ffffff",
+  "prefer_related_applications": false,
   "orientation": "portrait",
   "background_color": "#ffffff",
   "start_url": "https://absolutearray.com/",
