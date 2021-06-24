@@ -1,4 +1,6 @@
 {
+  "lang": "en",
+  "dir": "ltr",
   "name": "Absolute Array",
   "short_name": "Abs Array",
   "description": "Dedicated content for improving your programming abilities and learning new skills",
@@ -15,8 +17,8 @@
       "purpose": "any maskable"
     }
   ],
+  "scope": "/",
   "theme_color": "#ffffff",
-  "prefer_related_applications": false,
   "orientation": "portrait",
   "background_color": "#ffffff",
   "start_url": "https://absolutearray.com/",
