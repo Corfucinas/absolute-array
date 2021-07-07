@@ -3,7 +3,7 @@
 import stylecloud
 
 stylecloud.gen_stylecloud(
-    size=730,
+    size=1500,
     file_path='./117-vscode-extensions-readme.txt',
     icon_name='fab fa-windows',
     palette='colorbrewer.diverging.Spectral_11',

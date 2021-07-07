@@ -1,1 +1,0 @@
-(()=>{window.onload=function(){document.querySelector(".preloader").style.display="none"},document.querySelector("#searchOpen").addEventListener("click",function(){document.querySelector(".search-wrapper").classList.add("open")}),document.querySelector("#searchClose").addEventListener("click",function(){document.querySelector(".search-wrapper").classList.remove("open")})})()

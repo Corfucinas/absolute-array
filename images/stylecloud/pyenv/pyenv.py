@@ -3,7 +3,7 @@
 import stylecloud
 
 stylecloud.gen_stylecloud(
-    size=730,
+    size=1500,
     file_path='./pyenv-readme.txt',
     icon_name='fab fa-python',
     palette='colorbrewer.diverging.Spectral_11',
@@ -11,5 +11,5 @@ stylecloud.gen_stylecloud(
     gradient='horizontal',
     output_name='pyenv-stylecloud.png',
     invert_mask=False,
-    max_font_size=100,
+    max_font_size=200,
 )
