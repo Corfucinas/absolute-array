@@ -1,0 +1,331 @@
+<!doctype html>
+<html lang="en">
+
+    <head>
+        <title>Tatjana Fumic' resume</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+        <meta name="keywords"
+            content="resume, lawyer, shanghai, intellectual property, consulting, trademark, contracts">
+        <meta name="description" content="resume of Tatjana Fumic">
+        <meta name="author" content="Tatjana Fumic">
+        <link rel="icon" type="image/png" sizes="32x32"
+            href="https://absolutearray.com/images/favicon/favicon-32x32.png">
+        <link rel="canonical" href="https://absolutearray.com/tatjana/resume">
+        <link rel="preload" href="resume.css" as="style" onload="this.rel='stylesheet'">
+    </head>
+
+    <body class="resume">
+
+        <header>
+
+            <div class="intro-container">
+                <h1 id="full-name">Tatjana Fumic</h1>
+                <p class="objective" dir="ltr">
+                    <a>15 years of experience career with broad international knowledge acquired throughout
+                        demanding roles in the academia and law. Focused on Merge and Acquisition for
+                        onshore-offshore investment between Europe and China.</a>
+                </p>
+            </div>
+
+            <div class="photo-container">
+                <div class="photo" alt="profile picture"></div>
+            </div>
+
+            <div class="contact-container">
+                <ul>
+                    <br>
+                    <li>Shanghai, China</li>
+                    <li>tatjana.fumic@gmail.com</li>
+                </ul>
+            </div>
+
+        </header>
+
+        <main>
+
+            <div class="column column-left">
+
+                <section class="work-experience">
+
+                    <h2>Experience</h2>
+
+                    <ul>
+
+                        <li>
+                            <div class="heading">
+                                <span class="super-left">
+                                    05/2021 - Present
+                                </span>
+                                <span class="super-right">
+                                    Shanghai, China
+                                </span>
+                                <span class="title">
+                                    Senior in-house Lawyer
+                                </span>
+                                <span class="sub-title">
+                                    Arete Technology LTD
+                                </span>
+                            </div>
+                            <div class="body">
+                                <p dir="ltr">
+                                    Providing accurate, relevant, and timely advice on a variety of legal topics related
+                                    to their business sector and products or services. Including Merge and Acquisitions,
+                                    opening multinational branches, and ensuring compliance and staying up-to-date with
+                                    all laws and regulations.</p>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="heading">
+                                <span class="super-left">
+                                    06/2019 - 05/2021
+                                </span>
+                                <span class="super-right">
+                                    Shanghai, China
+                                </span>
+                                <span class="title">
+                                    Senior in-house Lawyer
+                                </span>
+                                <span class="sub-title">
+                                    ViewFin
+                                </span>
+                            </div>
+                            <div class="body">
+                                <p dir="ltr">
+                                    Working closely with various executive members to prepare a comprehensive brief for
+                                    each client. Writing and negotiating various legal documents such as contracts and
+                                    commercial agreements. </p>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="heading">
+                                <span class="super-left">
+                                    09/2018 - 06/2019
+                                </span>
+                                <span class="super-right">
+                                    Shanghai, China
+                                </span>
+                                <span class="title">
+                                    Senior Lawyer
+                                </span>
+                                <span class="sub-title">
+                                    GWA Asia
+                                </span>
+                            </div>
+                            <div class="body">
+                                <p dir="ltr">Drafting, reviewing, and negotiating various commercial contracts and
+                                    agreements.
+                                    Communicating with and managing any third-party bodies such as external counsel or
+                                    auditors.</p>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="heading">
+                                <span class="super-left">
+                                    04/2018 - 09/2018
+                                </span>
+                                <span class="super-right">
+                                    Shanghai, China
+                                </span>
+                                <span class="title">
+                                    Senior in-house Lawyer
+                                </span>
+                                <span class="sub-title">
+                                    Vision Max, LTD
+                                </span>
+                            </div>
+                            <div class="body">
+                                <p dir="ltr">
+                                    Managing and mitigating legal risks by designing and implementing company policies
+                                    and procedures.
+                                    Promoting legal, compliance and risk management best practice throughout the
+                                    company.
+                                    </a>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="heading">
+                                <span class="super-left">
+                                    11/2007 - 04/2018
+                                </span>
+                                <span class="super-right">
+                                    Zagreb, Croatia
+                                </span>
+                                <span class="title">
+                                    Senior Associate and Litigator
+                                </span>
+                                <span class="sub-title">
+                                    Seric and Seric Associates
+                                </span>
+                            </div>
+                            <div class="body">
+                                <p dir="ltr">
+                                    Represented clients in civil trials and criminal proceedings.
+                                    Provided legal counsel to various clients and entities regarding domestic and
+                                    international law.
+                                    Oversee compliance procedures of various companies with the regulations of the
+                                    country.
+                                    </a>
+                            </div>
+                            <br>
+                        </li>
+
+                    </ul>
+
+                </section>
+
+                <section class="interests">
+
+                    <h2>Skills</h2>
+                    <div class='heading'>
+                        <div class="title">
+                            <div>
+                                <p dir='ltr'>Detail-driven, conscientious, and organized; highly effective and well
+                                    versed in research
+                                    and drafting legal documents. Solution oriented approach to legal processes, forward
+                                    thinking, and, decisive.</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+            </div>
+
+            <div class="column column-right">
+
+                <section class="education">
+
+                    <h2>Education</h2>
+
+                    <ul>
+
+                        <li>
+                            <div class="heading">
+                                <span class="super-left">
+                                    2007
+                                </span>
+                                <span class="title">
+                                    Master’s degree, Master of Laws
+                                </span>
+                                <span class="sub-title">
+                                    University of Zagreb, Croatia
+                                </span>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="heading">
+                                <span class="super-left">
+                                    2010
+                                </span>
+                                <span class="title">
+                                    Bar exam
+                                </span>
+                                <span class="sub-title">
+                                    Ministry of justice, Zagreb, Croatia
+                                </span>
+                            </div>
+                        </li>
+
+                    </ul>
+
+                    <h2>Academic experience</h2>
+
+                    <ul>
+
+                        <li>
+                            <div class="heading">
+                                <span class="super-left">
+                                    March 2019 - July 2019
+                                </span>
+                                <span class="super-right">
+                                    Jinan, China
+                                </span>
+                                <span class="title">
+                                    Qilu University of Technology
+                                </span>
+                                <span class="sub-title">
+                                    Interim professor
+                                </span>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="heading">
+                                <span class="super-left">
+                                    May 2019
+                                </span>
+                                <span class="super-right">
+                                    Hong Kong
+                                </span>
+                                <span class="title">
+                                    Conference on Judicial reform and Judicial cooperation between China and EU
+                                </span>
+                                <span class="sub-title">
+                                    Guest Speaker
+                                </span>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="heading">
+                                <span class="super-left">
+                                    June 2005 - November 2007
+                                </span>
+                                <span class="super-right">
+                                    Zagreb, Croatia
+                                </span>
+                                <span class="title">
+                                    University of Zagreb, Faculty of law
+                                </span>
+                                <span class="sub-title">
+                                    Assistant at Civil Procedure Law Department
+                                </span>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="heading">
+                                <span class="super-left">
+                                    January 2004 - November 2007
+                                </span>
+                                <span class="super-right">
+                                    Zagreb, Croatia
+                                </span>
+                                <span class="title">
+                                    University of Zagreb, Faculty of law
+                                </span>
+                                <span class="sub-title">
+                                    EU Tempus Project, Judicial Reform in Croatia,
+                                    Assistant at Civil Procedure Law Department
+                                </span>
+                            </div>
+                        </li>
+
+                    </ul>
+
+                </section>
+
+                <section class="languages">
+
+                    <h2>Languages</h2>
+
+                    <div>
+                        <p dir="ltr">English: Native</p>
+                        <p dir="ltr">Croatian: Native</p>
+                        <p dir="ltr">German: Intermediate</p>
+                        <p dir="ltr">Chinese: Beginner</p>
+                    </div>
+
+                </section>
+
+            </div>
+
+        </main>
+
+    </body>
+
+</html>
